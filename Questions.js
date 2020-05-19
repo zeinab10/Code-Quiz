@@ -11,6 +11,7 @@ const progress = document.getElementById("progress");
 const scoreDiv = document.getElementById("scoreContainer");
 
 // create our questions
+//create
 let questions = [
 
     {
