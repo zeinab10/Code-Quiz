@@ -108,7 +108,7 @@ body{
 }
 #scoreContainer{
     margin : 20px auto;
-    background-color: white;
+    background-color: indianred;
     opacity: 0.8;
     height: 300px;
     width : 700px;
@@ -128,5 +128,7 @@ body{
     font-weight: bold;
     text-align: center;
 }
+
+
 
 
